@@ -8,3 +8,7 @@
 # 2. Design a Data Warehouse for Food delivery app like Swiggy, Zomato
 
 <img width="1232" alt="Food delivery app" src="https://user-images.githubusercontent.com/118034802/226104382-b1b3cd81-425c-40cc-a032-89658105d576.png">
+
+# 3. Design a Data Warehouse for cab ride service like Uber
+
+<img width="803" alt="cab ride service" src="https://user-images.githubusercontent.com/118034802/226104535-12b29b2b-f24e-425e-89c8-c112c91c2e5e.png">
