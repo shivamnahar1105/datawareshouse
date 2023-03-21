@@ -1,4 +1,6 @@
-# Question 1
+# Scenario 1
+
+# Question 1. What are the strengths and weaknesses of each option?
 
 OptionA - Modify the Instructor dimension by adding special rows representing instructor teams.Forexample,CS276ais taught by
 Manning and Raghavan, so there will be an Instructor row representing “Manning/Raghavan” (as well as separate
