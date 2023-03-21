@@ -22,4 +22,4 @@ general enrollment data and one for data at the student-course-instructor grain.
 Weaknesses: This option requires the creation and maintenance of two separate fact tables, which may increase complexity and the burden on the warehouse. It may also require users to remember to use the appropriate fact table for their queries, which could lead to errors or incorrect results if they use the wrong table.
 
 Given the options presented, I would choose Option C. This option allows for the
-creation of two separate fact tables, one with the Instructor dimension and one without, which enables users to choose the appropriate table for their analysis needs. This
+creation of two separate fact tables, one with the Instructor dimension and one without, which enables users to choose the appropriate table for their analysis needs.
